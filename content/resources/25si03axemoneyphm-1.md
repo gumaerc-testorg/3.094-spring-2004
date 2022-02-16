@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/8356ad57e879ba8bf65f55efe68c0f05_25SI03axeMoneyphm.tif
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/8356ad57e879ba8bf65f55efe68c0f05_25SI03axeMoneyphm.tif
 file_type: image/tiff
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Specimen
+parent_type: CourseSection
 resourcetype: Image
 title: 25SI03axeMoneyphm.tif
 uid: 8356ad57-e879-ba8b-f65f-55efe68c0f05

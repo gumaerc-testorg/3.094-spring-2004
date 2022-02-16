@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/cd5f7a722060fabb9a773425fab53741_working_protocol.pdf
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/cd5f7a722060fabb9a773425fab53741_working_protocol.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Laboratories
+parent_type: CourseSection
 resourcetype: Document
 title: working_protocol.pdf
 uid: cd5f7a72-2060-fabb-9a77-3425fab53741

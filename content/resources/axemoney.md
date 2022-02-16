@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/f6ae8804e68b1c97c7a0a08ca71af569_axemoney.pdf
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/f6ae8804e68b1c97c7a0a08ca71af569_axemoney.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Specimen
+parent_type: CourseSection
 resourcetype: Document
 title: axemoney.pdf
 uid: f6ae8804-e68b-1c97-c7a0-a08ca71af569

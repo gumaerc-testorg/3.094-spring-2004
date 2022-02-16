@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/a1162b0b78eb1c1d6b7eef3e27ef6b9e_38SI03nosering3A1.pdf
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/a1162b0b78eb1c1d6b7eef3e27ef6b9e_38SI03nosering3A1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Specimen
+parent_type: CourseSection
 resourcetype: Document
 title: 38SI03nosering3A1.pdf
 uid: a1162b0b-78eb-1c1d-6b7e-ef3e27ef6b9e

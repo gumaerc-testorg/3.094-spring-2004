@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/06e81141549a2898bd84348d2499e9b7_supp_image_captions.pdf
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/06e81141549a2898bd84348d2499e9b7_supp_image_captions.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Specimen
+parent_type: CourseSection
 resourcetype: Document
 title: supp_image_captions.pdf
 uid: 06e81141-549a-2898-bd84-348d2499e9b7

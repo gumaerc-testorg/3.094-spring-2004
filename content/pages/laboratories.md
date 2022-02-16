@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Laboratories
 uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 ---

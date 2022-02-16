@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/a3d835044df21911a65422ca3b1574cc_15SI03buttonringphmap.tif
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/a3d835044df21911a65422ca3b1574cc_15SI03buttonringphmap.tif
 file_type: image/tiff
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Specimen
+parent_type: CourseSection
 resourcetype: Image
 title: 15SI03buttonringphmap.tif
 uid: a3d83504-4df2-1911-a654-22ca3b1574cc

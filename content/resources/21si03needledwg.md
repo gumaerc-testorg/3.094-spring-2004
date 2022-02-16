@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/b1c2f2db9768805fd4ef7be9e81d59ac_21SI03needledwg.pdf
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/b1c2f2db9768805fd4ef7be9e81d59ac_21SI03needledwg.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Specimen
+parent_type: CourseSection
 resourcetype: Document
 title: 21SI03needledwg.pdf
 uid: b1c2f2db-9768-805f-d4ef-7be9e81d59ac

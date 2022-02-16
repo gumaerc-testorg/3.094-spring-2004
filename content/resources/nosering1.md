@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-094-materials-in-human-experience-spring-2004/ab0988d45cb24dcd87055078a5ad2460_nosering1.pdf
+file: /media/courses/3-094-materials-in-human-experience-spring-2004/ab0988d45cb24dcd87055078a5ad2460_nosering1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Specimen
+parent_type: CourseSection
 resourcetype: Document
 title: nosering1.pdf
 uid: ab0988d4-5cb2-4dcd-8705-5078a5ad2460

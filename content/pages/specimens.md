@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Specimen
 uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 ---
