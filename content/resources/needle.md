@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Document
 title: needle.pdf
 uid: be9f1f49-cd6b-bd92-4a3f-1609ce8a1f4b

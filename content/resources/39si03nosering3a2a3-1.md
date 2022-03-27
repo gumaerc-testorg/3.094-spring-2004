@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Document
 title: 39SI03nosering3A2A3.pdf
 uid: 95ed7027-78fe-3ed0-db0e-8ea7f5615525

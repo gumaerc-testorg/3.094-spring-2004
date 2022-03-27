@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Laboratories
 parent_type: CourseSection
+parent_uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 resourcetype: Document
 title: MM2.pdf
 uid: 65719b60-5b51-7f0e-bdbe-13f5b3ada037

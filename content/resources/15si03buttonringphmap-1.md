@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Document
 title: 15SI03buttonringphmap.pdf
 uid: 9e278e0d-c1a5-c4b7-0060-ced02f064c36

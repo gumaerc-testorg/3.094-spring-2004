@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Laboratories
 parent_type: CourseSection
+parent_uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 resourcetype: Document
 title: OCWintroLabManual.pdf
 uid: 373cd2c5-7885-fa9d-6da0-fb64e4031723

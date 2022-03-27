@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Document
 title: 18SI03tumidwg.pdf
 uid: 4b41252e-3fca-5081-e7f2-353cc2282669

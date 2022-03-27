@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Laboratories
 parent_type: CourseSection
+parent_uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 resourcetype: Document
 title: smelting_protocols.pdf
 uid: f669d853-71cb-ce95-26e1-8a9838f3d77f

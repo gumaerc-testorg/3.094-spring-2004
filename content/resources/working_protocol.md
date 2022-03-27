@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Laboratories
 parent_type: CourseSection
+parent_uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 resourcetype: Document
 title: working_protocol.pdf
 uid: cd5f7a72-2060-fabb-9a77-3425fab53741

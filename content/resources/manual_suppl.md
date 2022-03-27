@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Laboratories
 parent_type: CourseSection
+parent_uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 resourcetype: Document
 title: manual_suppl.pdf
 uid: cbcf6f22-86f0-3c7d-2a6b-764043778822

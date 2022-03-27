@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 41SI03nosering3A5A6.tif
 uid: a0b3c132-eb9b-267b-46cd-35e175ed066e

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 34SI03nosering2phmA4.tif
 uid: 611af7ba-32ce-f0a5-a1ad-c7b23b6522ae

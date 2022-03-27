@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection
+parent_uid: 101c6d32-96cb-7ef7-f8f2-ac2616ed2216
 resourcetype: Image
 title: 19SI03tumiphmA.tif
 uid: 24b065ff-8efa-6856-b594-79591fbf4341

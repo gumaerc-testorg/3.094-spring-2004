@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: df728115-09c9-ca87-59a5-a7e6f796d889
 resourcetype: Document
 title: supply_list.pdf
 uid: 11fa0bf4-16b7-9448-1a76-4acdac6732d2
