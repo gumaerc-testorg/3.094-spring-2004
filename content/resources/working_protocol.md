@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-094-materials-in-human-experience-spring-2004/cd5f7a722060fabb9a773425fab53741_working_protocol.pdf
+file: /courses/3-094-materials-in-human-experience-spring-2004/cd5f7a722060fabb9a773425fab53741_working_protocol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

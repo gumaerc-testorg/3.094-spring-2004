@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-094-materials-in-human-experience-spring-2004/ed61c05ccb1a7ec44606a71dda194a4b_32SI03nosering2map.pdf
+file: /courses/3-094-materials-in-human-experience-spring-2004/ed61c05ccb1a7ec44606a71dda194a4b_32SI03nosering2map.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Tools
 uid: df728115-09c9-ca87-59a5-a7e6f796d889
 ---
 
-Tools ([PDF]({{< baseurl >}}/resources/supply_list))
+Tools ({{% resource_link 11fa0bf4-16b7-9448-1a76-4acdac6732d2 "PDF" %}})
 ----------------------------------------------------
 
 Supply List

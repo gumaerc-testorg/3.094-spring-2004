@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-094-materials-in-human-experience-spring-2004/cf34905062e3c56d43f65ced4449fdff_13SI03buttonringphoto.pdf
+file: /courses/3-094-materials-in-human-experience-spring-2004/cf34905062e3c56d43f65ced4449fdff_13SI03buttonringphoto.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
