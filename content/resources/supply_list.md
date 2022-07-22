@@ -5,6 +5,7 @@ file: /courses/3-094-materials-in-human-experience-spring-2004/11fa0bf416b794481
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: supply_list.pdf
 uid: 11fa0bf4-16b7-9448-1a76-4acdac6732d2
 ---
 List of supplies needed for the lab experiments in this course.
-

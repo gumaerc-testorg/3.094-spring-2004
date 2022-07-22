@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/9e278e0dc1a5c4b70060ced02f064c36_15SI03buttonringphmap.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection

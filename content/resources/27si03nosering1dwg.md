@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/e076c855bdc8739cae8f998b5e038d5a_27SI03nosering1dwg.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Specimen
 parent_type: CourseSection

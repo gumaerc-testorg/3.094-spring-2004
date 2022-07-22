@@ -4,6 +4,7 @@ description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/f669d85371cbce9526e18a9838f3d77f_smelting_protocols.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Laboratories
 parent_type: CourseSection
