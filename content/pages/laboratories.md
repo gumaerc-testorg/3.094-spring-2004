@@ -1,52 +1,55 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Laboratories
 uid: d4d94157-fbee-52ff-dada-bee024ca2d9d
 ---
 
-To view the specimens mentioned below, click the linked text or visit the [specimens]({{< baseurl >}}/pages/specimens) section of the course.
+To view the specimens mentioned below, click the linked text or visit the {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "specimens" %}} section of the course.
 
 Laboratory Manual
 -----------------
 
 I. The Power Of Metal In The Andean World
 
-> A. Introduction ([PDF]({{< baseurl >}}/resources/ocwintrolabmanual))
+> A. Introduction ({{% resource_link 373cd2c5-7885-fa9d-6da0-fb64e4031723 "PDF" %}})
 > 
-> > i. [Specimen A]({{< baseurl >}}/pages/specimens#introduction)  
-> > ii. [Specimen B]({{< baseurl >}}/pages/specimens#introduction)  
-> > iii. [Specimen C]({{< baseurl >}}/pages/specimens#introduction)
+> > i. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Specimen A" "#introduction" %}}  
+> > ii. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Specimen B" "#introduction" %}}  
+> > iii. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Specimen C" "#introduction" %}}
 > 
 > B. Exercises
 > 
 > > i. Protocols
 > > 
-> > > a. Direct Reduction Smelting of Copper Oxide Ore ([PDF]({{< baseurl >}}/resources/smelting_protocols))  
-> > > b. Lost-Wax Casting of Copper-Silver Alloy Bar Ingots ([PDF]({{< baseurl >}}/resources/casting_protocol))  
-> > > c. Casting and Working Copper-Silver Alloys ([PDF]({{< baseurl >}}/resources/working_protocol))
+> > > a. Direct Reduction Smelting of Copper Oxide Ore ({{% resource_link f669d853-71cb-ce95-26e1-8a9838f3d77f "PDF" %}})  
+> > > b. Lost-Wax Casting of Copper-Silver Alloy Bar Ingots ({{% resource_link 5e8fccfb-b50a-0977-d1dd-78eda4fdb283 "PDF" %}})  
+> > > c. Casting and Working Copper-Silver Alloys ({{% resource_link cd5f7a72-2060-fabb-9a77-3425fab53741 "PDF" %}})
 > > 
 > > ii. Specimens
 > > 
 > > > a. Ecuador
 > > > 
-> > > > 1\. [Axe]({{< baseurl >}}/pages/specimens#ecuador)  
-> > > > 2. [Button ring]({{< baseurl >}}/pages/specimens#ecuador)  
-> > > > 3. [Tumi knife]({{< baseurl >}}/pages/specimens#ecuador)  
-> > > > 4. [Needle]({{< baseurl >}}/pages/specimens#ecuador)  
-> > > > 5. [Axe money]({{< baseurl >}}/pages/specimens#ecuador)  
-> > > > 6. [Nose ring 1]({{< baseurl >}}/pages/specimens#ecuador)
+> > > > 1\. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Axe" "#ecuador" %}}  
+> > > > 2. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Button ring" "#ecuador" %}}  
+> > > > 3. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Tumi knife" "#ecuador" %}}  
+> > > > 4. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Needle" "#ecuador" %}}  
+> > > > 5. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Axe money" "#ecuador" %}}  
+> > > > 6. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Nose ring 1" "#ecuador" %}}
 > > > 
 > > > b. Columbia
 > > > 
-> > > > 1. [Nose ring 2]({{< baseurl >}}/pages/specimens#columbia)  
-> > > > 2. [Nose ring 3]({{< baseurl >}}/pages/specimens#columbia)
+> > > > 1. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Nose ring 2" "#columbia" %}}  
+> > > > 2. {{% resource_link 101c6d32-96cb-7ef7-f8f2-ac2616ed2216 "Nose ring 3" "#columbia" %}}
 > > 
 > > iii. Examinations of Metallic Microstructures
 > > 
-> > > a. Castings ([PDF]({{< baseurl >}}/resources/mm1))  
-> > > b. Worked Metal ([PDF]({{< baseurl >}}/resources/mm2))  
-> > > c. Archaeological Artifacts from Ecuador and Columbia ([PDF]({{< baseurl >}}/resources/mm3))
+> > > a. Castings ({{% resource_link 52981f80-084e-ef72-335c-007da815287b "PDF" %}})  
+> > > b. Worked Metal ({{% resource_link 65719b60-5b51-7f0e-bdbe-13f5b3ada037 "PDF" %}})  
+> > > c. Archaeological Artifacts from Ecuador and Columbia ({{% resource_link 438f04fe-f636-bf16-7990-5325fae9133b "PDF" %}})
 
-II. The Metallographic Examination of Archaeological Artifacts ([PDF]({{< baseurl >}}/resources/manual_suppl))
+II. The Metallographic Examination of Archaeological Artifacts ({{% resource_link cbcf6f22-86f0-3c7d-2a6b-764043778822 "PDF" %}})
 
-Periodic Table of the Elements ([PDF]({{< baseurl >}}/resources/periodic_table))
+Periodic Table of the Elements ({{% resource_link 5f6bbdc4-39f0-b631-12b6-344a5f65b5ea "PDF" %}})
