@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/ebd27eee85b3d6ba0ca2f71037bc1e67_22SI03needlephm.tif
+file_size: 8259992
 file_type: image/tiff
 image_metadata:
   caption: ''
