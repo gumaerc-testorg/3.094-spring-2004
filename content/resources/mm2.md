@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/65719b605b517f0ebdbe13f5b3ada037_MM2.pdf
+file_size: 195165
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-094-materials-in-human-experience-spring-2004/5b1e0720dcaf14fa7b93e112209d165d_12SI03axephmicrB.tif
+file_size: 9482004
 file_type: image/tiff
 image_metadata:
   caption: ''
