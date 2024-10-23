@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-094-materials-in-human-experience-spring-2004/5e8fccfbb50a0977d1dd78eda4fdb283_casting_protocol.pdf
+file: /ol-ocw-studio-app/courses/3-094-materials-in-human-experience-spring-2004/5e8fccfbb50a0977d1dd78eda4fdb283_casting_protocol.pdf
 file_size: 203906
 file_type: application/pdf
 learning_resource_types: []
