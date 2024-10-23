@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-094-materials-in-human-experience-spring-2004/cd790fb166146a4ca00e5a883360b37a_tumiknife.pdf
+file: /ol-ocw-studio-app/courses/3-094-materials-in-human-experience-spring-2004/cd790fb166146a4ca00e5a883360b37a_tumiknife.pdf
 file_size: 19523
 file_type: application/pdf
 learning_resource_types: []

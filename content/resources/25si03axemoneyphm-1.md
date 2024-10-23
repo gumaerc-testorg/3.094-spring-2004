@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-094-materials-in-human-experience-spring-2004/8356ad57e879ba8bf65f55efe68c0f05_25SI03axeMoneyphm.tif
+file: /ol-ocw-studio-app/courses/3-094-materials-in-human-experience-spring-2004/8356ad57e879ba8bf65f55efe68c0f05_25SI03axeMoneyphm.tif
 file_size: 8824680
 file_type: image/tiff
 image_metadata:
