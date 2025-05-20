@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-094-materials-in-human-experience-spring-2004/9b409bd9427e145e5db42d571cf5686a_23SI03needleconstr.pdf
+file: /courses/3-094-materials-in-human-experience-spring-2004/9b409bd9427e145e5db42d571cf5686a_23SI03needleconstr.pdf
 file_size: 42635
 file_type: application/pdf
 learning_resource_types: []
