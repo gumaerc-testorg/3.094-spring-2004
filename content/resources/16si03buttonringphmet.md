@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-094-materials-in-human-experience-spring-2004/6f6b56972e95170f137fa80002f92058_16SI03buttonringphmet.pdf
+file: /ol-ocw-studio-app/courses/3-094-materials-in-human-experience-spring-2004/6f6b56972e95170f137fa80002f92058_16SI03buttonringphmet.pdf
 file_size: 1114952
 file_type: application/pdf
 learning_resource_types: []
