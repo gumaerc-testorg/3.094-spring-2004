@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-094-materials-in-human-experience-spring-2004/a3d835044df21911a65422ca3b1574cc_15SI03buttonringphmap.tif
+file: /ol-ocw-studio-app/courses/3-094-materials-in-human-experience-spring-2004/a3d835044df21911a65422ca3b1574cc_15SI03buttonringphmap.tif
 file_size: 9599280
 file_type: image/tiff
 image_metadata:
